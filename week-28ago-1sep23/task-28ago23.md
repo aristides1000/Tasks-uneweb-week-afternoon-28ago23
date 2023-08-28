@@ -46,7 +46,7 @@
    - [C Syntax](https://www.w3schools.com/c/c_syntax.php)
    - [C Output](https://www.w3schools.com/c/c_output.php)
    - [C Comments](https://www.w3schools.com/c/c_comments.php)
-10. Una Vez creadas las carpetas con esos nombres va a ingresar a los links mostrados en el punto 9 y va a crear un archivo con el mismo nombre de la carpeta seguido con un número cada vez que vea un cuadro con el botón `Try it Yourself`, le va a dar click al botón y va a intentar replicar ese ejercicio en su máquina personal, lo va a ejecutar y no debería darle ningún error el código ejecutado.
+10. Una Vez creadas las carpetas con esos nombres va a ingresar a los links mostrados en el punto 9 que pertenecen al portal [w3schools](https://www.w3schools.com/) y va a crear un archivo con el mismo nombre de la carpeta seguido con un número cada vez que vea un cuadro con el botón `Try it Yourself`, le va a dar click al botón y va a intentar replicar ese ejercicio en su máquina personal, lo va a ejecutar y no debería darle ningún error el código ejecutado.
 
 ## Práctica
 
