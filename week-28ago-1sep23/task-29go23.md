@@ -47,17 +47,18 @@
 7. Descargue dicho repositorio creado con el comando `git clone <repository-url-code>` en una carpeta local de su equipo.
 8. Dentro del repositorio descargado va a ejecutar el programa `git bash` y dentro de esa CLI o terminal va a ejecutar el comando `code .` para abrir ese directorio o carpeta en el programa `Visual Studio Code`.
 9. Una vez dentro va a crear las carpetas con los títulos:
-   - [C HOME](https://www.w3schools.com/c/index.php)
-   - [C Intro](https://www.w3schools.com/c/c_intro.php)
-   - [C Get Started](https://www.w3schools.com/c/c_getstarted.php)
-   - [C Syntax](https://www.w3schools.com/c/c_syntax.php)
-   - [C Output](https://www.w3schools.com/c/c_output.php)
-   - [C Comments](https://www.w3schools.com/c/c_comments.php)
+   - [C Variables](https://www.w3schools.com/c/c_variables.php)
+   - [C Data Types](https://www.w3schools.com/c/c_data_types.php)
+   - [C Constants](https://www.w3schools.com/c/c_constants.php)
+   - [C Operators](https://www.w3schools.com/c/c_operators.php)
+   - [C Booleans](https://www.w3schools.com/c/c_booleans.php)
+   - [C If ... Else](https://www.w3schools.com/c/c_conditions.php)
+   - [C Short Hand If Else](https://www.w3schools.com/c/c_conditions_short_hand.php)
 10. Una Vez creadas las carpetas con esos nombres va a ingresar a los links mostrados en el punto 9 que pertenecen al portal [w3schools](https://www.w3schools.com/) y va a crear un archivo con el mismo nombre de la carpeta seguido con un número cada vez que vea un cuadro con el botón `Try it Yourself`, le va a dar click al botón y va a intentar replicar ese ejercicio en su máquina personal, lo va a ejecutar y no debería darle ningún error el código ejecutado.
 
 ## Práctica
 
-1. Realice el ejercicio [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true) del portal [HackerRank](https://www.hackerrank.com/dashboard).
-2. Haga el `ejercicio 1` de los apartados de [c](https://www.hackerrank.com/domains/c), [c++](https://www.hackerrank.com/domains/cpp), [java](https://www.hackerrank.com/domains/java), [python](https://www.hackerrank.com/domains/python), [Ruby](https://www.hackerrank.com/domains/ruby), del portal [HackerRank](https://www.hackerrank.com/dashboard).
+1. Realice el ejercicio [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true) del portal [HackerRank](https://www.hackerrank.com/dashboard).
+2. Haga el `ejercicio 2` de los apartados de [c](https://www.hackerrank.com/domains/c), [c++](https://www.hackerrank.com/domains/cpp), [java](https://www.hackerrank.com/domains/java), [python](https://www.hackerrank.com/domains/python), [Ruby](https://www.hackerrank.com/domains/ruby), del portal [HackerRank](https://www.hackerrank.com/dashboard).
 3. Termine los retos plasmados en todos los ejercicios de [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/), del apartado `Learn HTML by Building a Cat Photo App` del portal [freeCodeCamp](https://www.freecodecamp.org/learn/).
-4. Realizar los ejercicios del portal o aplicativo [Duolingo](https://www.duolingo.com/learn) de la `sección 1` del idioma `inglés`.
+4. Realizar los ejercicios del portal o aplicativo [Duolingo](https://www.duolingo.com/learn) de la `sección 2` del idioma `inglés`.
