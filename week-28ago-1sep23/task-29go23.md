@@ -35,6 +35,16 @@
 31. Lea el artículo [Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) y diga en clases que conclusiones puede tener del artículo.
 32. Vea el video [Tim Urban: Inside the mind of a master procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU&ab_channel=TED) y diga en clases que conclusiones puede tener del video.
 33. Realice todas las actividades de [Additional resources](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#additional-resources) y diga en clases que conclusiones puede tener del artículo.
+34. Lea el artículo [Asking For Help](https://www.theodinproject.com/lessons/foundations-asking-for-help#additional-resources) y diga en clases que conclusiones puede tener del artículo.
+35. Lea el artículo [Introduction](https://www.theodinproject.com/lessons/foundations-asking-for-help#introduction) y diga en clases que conclusiones puede tener del artículo.
+36. Lea el artículo [Lesson overview](https://www.theodinproject.com/lessons/foundations-asking-for-help#lesson-overview) y diga en clases que conclusiones puede tener del artículo.
+37. Lea el artículo [Tips for getting the best help possible](https://www.theodinproject.com/lessons/foundations-asking-for-help#tips-for-getting-the-best-help-possible) y diga en clases que conclusiones puede tener del artículo.
+38. Lea el artículo [Don't ask to ask, just ask](https://dontasktoask.com/) y diga en clases que conclusiones puede tener del artículo.
+39. Lea el artículo [The XY Problem](https://xyproblem.info/) y diga en clases que conclusiones puede tener del artículo.
+40. Lea el artículo [How to ask technical questions](https://www.theodinproject.com/guides/community/how_to_ask) y diga en clases que conclusiones puede tener del artículo.
+41. Realiza las actividades de [Assignment](https://www.theodinproject.com/lessons/foundations-asking-for-help#assignment) y diga en clases que conclusiones puede tener del artículo.
+42. Responda las preguntas del [Knowledge check](https://www.theodinproject.com/lessons/foundations-asking-for-help#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
+43. Lea el artículo [Additional resources](https://www.theodinproject.com/lessons/foundations-asking-for-help#additional-resources) y diga en clases que conclusiones puede tener del artículo.
 
 ## Teórico-Práctica
 
